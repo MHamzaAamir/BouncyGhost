@@ -1,5 +1,8 @@
+#MUHAMMAD HAMZA AAMIR
+
 import random
 import sys  # We will use sys.exit to exit the program
+
 
 import pygame
 from pygame.locals import *  # Basic pygame imports
